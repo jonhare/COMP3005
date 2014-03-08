@@ -4,7 +4,7 @@ layout: index
 
 Title        | Slides                             | Handouts
 ------------ | ---------------------------------- | ---------
-L0. Fork Me! | [Slides](./lectures/pdf/L0-forkme.pdf) | N/A     
+L0. Fork Me! | [PDF](./lectures/pdf/L0-forkme.pdf) | N/A     
 L1. Building machines that see | [PDF](./lectures/pdf/L1-machines-that-see.pdf) | [PDF](./handouts/pdf/L1-machines-that-see.pdf)
 L2. Machine learning for Pattern Recognition | [PDF](./lectures/pdf/L2-machine-learning.pdf) | [PDF](./handouts/pdf/L2-machine-learning.pdf)
 L3. Covariance and Principal Components | | 
