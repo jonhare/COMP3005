@@ -13,7 +13,7 @@ Title        | Slides                             | Handouts
 L0. Fork Me! | [PDF](./lectures/pdf/L0-forkme.pdf) | N/A     
 L1. Building machines that see | [PDF](./lectures/pdf/L1-machines-that-see.pdf) | [PDF](./handouts/pdf/L1-machines-that-see.pdf)
 L2. Machine learning for Pattern Recognition | [PDF](./lectures/pdf/L2-machine-learning.pdf) | [PDF](./handouts/pdf/L2-machine-learning.pdf)
-L3. Covariance and Principal Components | | 
+L3. Covariance and Principal Components | [PDF](./lectures/pdf/L3-covariance.pdf) | [PDF](./handouts/pdf/L3-covariance.pdf)
 L4. Types of image feature and segmentation | | 
 L5. Shape description and modelling | |
 L6. Local interest points | |
