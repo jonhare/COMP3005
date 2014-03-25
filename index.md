@@ -16,7 +16,7 @@ L2. Machine learning for Pattern Recognition | [PDF](./lectures/pdf/L2-machine-l
 L3. Covariance and Principal Components | [PDF](./lectures/pdf/L3-covariance.pdf) | [PDF](./handouts/pdf/L3-covariance.pdf)
 L4. Types of image feature and segmentation | [PDF](./lectures/pdf/L4-imagefeatures.pdf) | [PDF](./handouts/pdf/L4-imagefeatures.pdf)
 L5. Shape description and modelling | [PDF](./lectures/pdf/L5-shapedescription.pdf) | [PDF](./handouts/pdf/L5-shapedescription.pdf)
-L6. Local interest points | |
+L6. Local interest points | [PDF](./lectures/pdf/L6-interestpoints.pdf) | [PDF](./handouts/pdf/L6-interestpoints.pdf)
 L7. Local features and matching | | 
 L8. Consistent matching | | 
 L9. Large-scale image search | | 
