@@ -19,7 +19,9 @@ Date     | Title        | Slides                             | Handouts
 27 March | L6. Local interest points | [PDF](./lectures/pdf/L6-interestpoints.pdf) | [PDF](./handouts/pdf/L6-interestpoints.pdf)
 28 April | L7. Local features and matching | [PDF](./lectures/pdf/L7-matching.pdf) | [PDF](./handouts/pdf/L7-matching.pdf)
 1 May    | L8. Consistent matching | | 
-8 May    | L9. Image Search and Image Classification | | 
-<!-- L9. Large-scale image search | |  -->
-<!-- L10. Image classification and auto-annotation | |  -->
-<!-- L11. Towards 3D vision | |  -->
+8 May    | L9. Image Search and Image Classification | |
+
+These were part of the original plan, but have been removed due to time constraints (bank holidays and the need to have a revision lecture):
+* L9. Large-scale image search
+* L10. Image classification and auto-annotation
+* L11. Towards 3D vision
