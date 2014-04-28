@@ -22,6 +22,7 @@ Date     | Title        | Slides                             | Handouts
 8 May    | L9. Image Search and Image Classification | |
 
 These were part of the original plan, but have been removed due to time constraints (bank holidays and the need to have a revision lecture):
+
 * L9. Large-scale image search
 * L10. Image classification and auto-annotation
 * L11. Towards 3D vision
