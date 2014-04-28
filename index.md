@@ -8,17 +8,18 @@ This half of the course will be taught through a series of lectures presented wi
 
 To run the interactive slides and demos application shown in the lecture you'll need to have Java 6 or later installed. The most recently compiled version of the interactive slides and demos can be downloaded from our continuous integration system [here](http://jenkins.ecs.soton.ac.uk/job/COMP3005/lastSuccessfulBuild/artifact/app/target/COMP3005-1.0-SNAPSHOT-jar-with-dependencies.jar). This will be updated frequently throughout the course as the lecture material is finalised. After downloading, you should be able to run the jar by double clicking on it, or running from the command-line with `java -jar COMP3005-1.0-SNAPSHOT-jar-with-dependencies.jar`. 
 
-Title        | Slides                             | Handouts
------------- | ---------------------------------- | ---------
-L0. Fork Me! | [PDF](./lectures/pdf/L0-forkme.pdf) | N/A     
-L1. Building machines that see | [PDF](./lectures/pdf/L1-machines-that-see.pdf) | [PDF](./handouts/pdf/L1-machines-that-see.pdf)
-L2. Machine learning for Pattern Recognition | [PDF](./lectures/pdf/L2-machine-learning.pdf) | [PDF](./handouts/pdf/L2-machine-learning.pdf)
-L3. Covariance and Principal Components | [PDF](./lectures/pdf/L3-covariance.pdf) | [PDF](./handouts/pdf/L3-covariance.pdf)
-L4. Types of image feature and segmentation | [PDF](./lectures/pdf/L4-imagefeatures.pdf) | [PDF](./handouts/pdf/L4-imagefeatures.pdf)
-L5. Shape description and modelling | [PDF](./lectures/pdf/L5-shapedescription.pdf) | [PDF](./handouts/pdf/L5-shapedescription.pdf)
-L6. Local interest points | [PDF](./lectures/pdf/L6-interestpoints.pdf) | [PDF](./handouts/pdf/L6-interestpoints.pdf)
-L7. Local features and matching | [PDF](./lectures/pdf/L7-matching.pdf) | [PDF](./handouts/pdf/L7-matching.pdf)
-L8. Consistent matching | | 
-L9. Large-scale image search | | 
-L10. Image classification and auto-annotation | | 
-L11. Towards 3D vision | | 
+Date     | Title        | Slides                             | Handouts
+---------| ------------ | ---------------------------------- | ---------
+10 March | L0. Fork Me! | [PDF](./lectures/pdf/L0-forkme.pdf) | N/A     
+10 March | L1. Building machines that see | [PDF](./lectures/pdf/L1-machines-that-see.pdf) | [PDF](./handouts/pdf/L1-machines-that-see.pdf)
+13 March | L2. Machine learning for Pattern Recognition | [PDF](./lectures/pdf/L2-machine-learning.pdf) | [PDF](./handouts/pdf/L2-machine-learning.pdf)
+17 March | L3. Covariance and Principal Components | [PDF](./lectures/pdf/L3-covariance.pdf) | [PDF](./handouts/pdf/L3-covariance.pdf)
+20 March | L4. Types of image feature and segmentation | [PDF](./lectures/pdf/L4-imagefeatures.pdf) | [PDF](./handouts/pdf/L4-imagefeatures.pdf)
+24 March | L5. Shape description and modelling | [PDF](./lectures/pdf/L5-shapedescription.pdf) | [PDF](./handouts/pdf/L5-shapedescription.pdf)
+27 March | L6. Local interest points | [PDF](./lectures/pdf/L6-interestpoints.pdf) | [PDF](./handouts/pdf/L6-interestpoints.pdf)
+28 April | L7. Local features and matching | [PDF](./lectures/pdf/L7-matching.pdf) | [PDF](./handouts/pdf/L7-matching.pdf)
+1 May    | L8. Consistent matching | | 
+8 May    | L9. Image Search and Image Classification | | 
+<!-- L9. Large-scale image search | |  -->
+<!-- L10. Image classification and auto-annotation | |  -->
+<!-- L11. Towards 3D vision | |  -->
