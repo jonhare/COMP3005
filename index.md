@@ -19,7 +19,7 @@ Date     | Title        | Slides                             | Handouts
 27 March | L6. Local interest points | [PDF](./lectures/pdf/L6-interestpoints.pdf) | [PDF](./handouts/pdf/L6-interestpoints.pdf)
 28 April | L7. Local features and matching | [PDF](./lectures/pdf/L7-matching.pdf) | [PDF](./handouts/pdf/L7-matching.pdf)
 1 May    | L8. Consistent matching | [PDF](./lectures/pdf/L8-consistency.pdf) | [PDF](./handouts/pdf/L8-consistency.pdf)
-8 May    | L9. Image Search and Image Classification | |
+8 May    | L9. Image Search and Image Classification | [PDF](./lectures/pdf/L9-imagesearchclass.pdf) | [PDF](./handouts/pdf/L9-imagesearchclass.pdf)
 
 These were part of the original plan, but have been removed due to time constraints (bank holidays and the need to have a revision lecture):
 
